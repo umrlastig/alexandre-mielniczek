@@ -1,4 +1,4 @@
 # alexandre-mielniczek
   
 
-Template for LASTIG researchers personal webpage.
+Repository for LASTIG researchers personal webpage.
